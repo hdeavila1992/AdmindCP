@@ -1,0 +1,10 @@
+import tkintert as tk
+import numpy as np
+
+root=tk.Tk()
+
+#Create first canvas 
+c1=Canvas(root,bg='#1f52a3', padding='20', width='500' height='500' 
+
+
+root.mainloop()
